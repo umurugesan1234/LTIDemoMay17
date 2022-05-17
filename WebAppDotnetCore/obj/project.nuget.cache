@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BywQy7tDR11HqZNGFUcdhfHn2uJ2syUMjlckT3CIR44CTGHpHyjW1tu0NpVxzso5NLYPpUTduer3C7euNuePmg==",
+  "dgSpecHash": "bsEA8TnBRm0Z9WPc7I03YK9Rv4fVKLeFGF93uNbjArgfD3iBa1jZc2Qfw8PzgaT5nCR18KuUNwEkCRHdMyv+pQ==",
   "success": true,
-  "projectFilePath": "C:\\Muru\\Office\\GitHubHansOn\\Demo_DotNetAppDec21\\WebAppDotnetCore\\WebAppDotnetCore.csproj",
+  "projectFilePath": "C:\\Muru\\Office\\Github\\LTIDemo\\LTIDemoMay17\\WebAppDotnetCore\\WebAppDotnetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
